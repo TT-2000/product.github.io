@@ -24,7 +24,7 @@ p {
 }
 
 img {
-    height: 200px;
+    height: 280px;
 }
 
 
@@ -43,7 +43,7 @@ img {
 
 
 .product__left {
-    height: 310px;
+    height: 420px;
     background: #fff;
     display: flex;
     flex-direction: column;
@@ -68,7 +68,7 @@ img {
 /*  product content Center */
 
 .product__center {
-    height: 310px;
+    height: 420px;
     background: #fff;
     display: flex;
     flex: 2;
@@ -84,7 +84,7 @@ img {
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    gap: 1.5rem;
+    gap: 2rem;
     flex-direction: column;
 
 }
@@ -119,7 +119,7 @@ img {
 
 
 .product__right {
-    height: 310px;
+    height: 420px;
     background: #fff;
     display: flex;
     flex-direction: column;
